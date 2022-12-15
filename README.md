@@ -17,3 +17,6 @@ You will need :
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
 
 A User model, Auth, and Create, Update, and Delete routes will not be required for this lab. However, if you are considering using Django as a backend for your capstone, this would be a good time to try those out and see what they entail (Maybe adding reviews/comments for the venues or shows?)
+
+
+We will be presenting our projects Wednesday 12/21 9AM EST
