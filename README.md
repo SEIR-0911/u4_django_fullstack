@@ -4,6 +4,8 @@ With our Django REST API lab done we have completed all of the lessons for our c
 
 For our final lab, we will build up a REST-ful API using Django, and attach it to a front-end built in  React.
 
+## Background
+
 As you may know, Ticketmaster is awful. Adding 30% service fees to a sale may seem like a great business model, but might actually be turning away potential customers. Luckily, we can use this to our advantage, and take a bit of their market share with our new Tick-iT website. 
 
 ## Requirements
