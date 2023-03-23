@@ -15,8 +15,7 @@ You will need :
 - At least 4 Back end paths (Index and Show of Venues and Events at each venue)
 - A functioning SPA built with React 
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
-
-A User model, Auth, and Create, Update, and Delete routes will not be required for this lab. However, if you are considering using Django as a backend for your capstone, this would be a good time to try those out and see what they entail (Maybe adding reviews/comments for the venues or shows?)
+- At least 1 additional route of Create, Update, or Delete for at least 1 of your models
 
 
 We will be presenting our projects Wednesday 12/21 9AM EST
