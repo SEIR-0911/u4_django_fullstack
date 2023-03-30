@@ -14,6 +14,7 @@ For this webpage you will create a list of local venues, each of which have a nu
 
 You will need :
 
+- A newly created Github Repo for Front and Back Ends
 - At least 4 Back end paths (Index and Show of Venues and Events at each venue)
 - A functioning SPA built with React, or with Django Views
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
