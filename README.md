@@ -14,13 +14,13 @@ As you may know, Ticketmaster is awful. Adding 30% service fees to a sale may se
 
 ## Requirements
 
-For this webpage you will create a list of local venues, each of which have a number of events belonging to them. Then, using whichever JS framework you choose, plus the Axios library, lets Get those venues and events and render them on our screen in a clean, professionally styled, user-friendly webpage.
+For this webpage you will create a list of venues, each of which have a number of events belonging to them. Then, using the Axios library, lets Get those venues and events and render them on our screen in a clean, professionally styled, user-friendly webpage.
 
 You will need :
 
 - A newly created Github Repo for Front and Back Ends
 - At least 4 Back end paths (Index and Show of Venues and Events at each venue)
-- A functioning SPA built with React, or with Django Views
+- A functioning SPA built with React
 - A front-end Router that has a landing page with each Venue, with clickable links to see the individal shows belonging to each
 - At least 1 additional route of Create, Update, or Delete for at least 1 of your models across the front end
 
